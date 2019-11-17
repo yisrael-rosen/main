@@ -1,3 +1,5 @@
+<div dir="rtl" text-align="right">
+
 # דף האפיון הכללי
  
 
