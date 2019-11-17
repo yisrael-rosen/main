@@ -1,4 +1,4 @@
-<div dir="rtl" text-align="right">
+<div style="direction: rtl; text-align: right">
 
 # דף האפיון הכללי
  
